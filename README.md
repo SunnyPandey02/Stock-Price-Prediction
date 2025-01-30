@@ -1,4 +1,4 @@
-# Time Series Forecasting with RNN and LSTM
+# Stock PRice PRediction
 
 ## Overview
 This project demonstrates time series forecasting using Recurrent Neural Networks (RNNs) and Long Short-term Memory (LSTM) models. It analyzes financial time series data, focusing on patterns such as trends and moving averages, and prepares the data to predict stock prices.
